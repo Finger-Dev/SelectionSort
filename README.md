@@ -73,7 +73,7 @@ funcao inicio() {
 ## Como executar
 
 1. Clone o repositório:
-   git clone https://github.com/usuario/projeto.git
+   git clone https://github.com/Finger-Dev/SelectionSort.git
 
 2. Abra o projeto no Portugol Studio.
 3. Execute o programa:
