@@ -4,7 +4,7 @@ Este projeto implementa o algoritmo de ordenação Selection Sort utilizando a p
 
 Melhor em estruturas não tão grandes.
 
-A explicação ilustrativa sobre o método Selection Sort podem ser acessadas via link:
+A explicação ilustrativa sobre o método Selection Sort pode ser acessada via link:
 (https://www.canva.com/design/DAGKYfO9Uik/2cvFOydRtFkfDxBmNaasWw/view?utm_content=DAGKYfO9Uik&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Descrição
